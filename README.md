@@ -65,7 +65,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Monocular 3D Object Detection and Box Fitting Trained End-to-End Using Intersection-over-Union Loss [arxiv 2019] [[paper](https://arxiv.org/abs/1906.08070)]
 
 #### 2016
-- Monocular 3D Object Detection for Autonomous Driving [CVPR 2016] [[paper]https://www.cs.toronto.edu/~urtasun/publications/chen_etal_cvpr16.pdf)]
+- Monocular 3D Object Detection for Autonomous Driving [CVPR 2016] [[paper](https://www.cs.toronto.edu/~urtasun/publications/chen_etal_cvpr16.pdf)]
 
 ### Human pose estimation
 #### 2019
