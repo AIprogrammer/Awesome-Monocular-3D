@@ -22,6 +22,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ## papers
+### Color reconstruction
+#### 2021
+- Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone [[paper](https://github.com/philipturner/scene-color-reconstruction)] [[code](https://github.com/philipturner/ARHeadsetKit)]
+
 ### 3D object detection
 #### 2021
 - Categorical Depth Distribution Network for Monocular 3D Object Detection [CVPR 2021] [[paper](https://arxiv.org/abs/2103.01100)] [[code]()]
@@ -66,7 +70,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### Human pose estimation
 #### 2019
 - Generalizing Monocular 3D Human Pose Estimation in the Wild [ICCV 2019 workshop] [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/GMDL/Wang_Generalizing_Monocular_3D_Human_Pose_Estimation_in_the_Wild_ICCVW_2019_paper.pdf)] [[code](https://github.com/llcshappy/Monocular-3D-Human-Pose)]
-- 
+
 ## Leaderboard
 <!-- (http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) -->
 Continually updated.
